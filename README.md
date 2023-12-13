@@ -11,7 +11,7 @@ To write a program to find the LU Decomposition of a matrix.
 1. Start the program
 2. Using library scipy.linalg,import lu to find l and u matrices and lu_factor,lu_solve to find result
 3. Prepare the lists from given matrix
-4. Using lu(),l and u matrices can be printed and using lu_factor and lu_solve to find resultant matrix
+4. Using lu(),l and u matrices can be printed and using lu_factor() and lu_solve() to find resultant matrix
 
 ## Program:
 ### (i) To find the L and U matrix
@@ -46,8 +46,9 @@ print(solution)
 ```
 
 ## Output:
+### (i)
 ![Screenshot 2023-12-13 180620](https://github.com/Prajin19/LU-Decomposition/assets/144979377/025f2cb5-9899-4150-9953-afe8d11f7feb)
-
+### (ii)
 ![Screenshot 2023-12-13 180641](https://github.com/Prajin19/LU-Decomposition/assets/144979377/a79e6ab8-709f-4820-86fb-9330506cd149)
 
 
